@@ -30,4 +30,15 @@ Challenges:
  ## Extra task
  
  <img width="636" alt="截屏2023-02-13 22 52 18" src="https://user-images.githubusercontent.com/115186584/218592581-edec642f-be74-4be8-b3b7-167773485671.png">
+ 
+ 
+ ## Task three: Multiple Constructors
+ 
+ Warming up:
+
+Comment out noLoop() so that the sketch loops. Add background(200) into draw loop to clear background each frame. Create a mousePressed() function to change the x, y and radius of sp2 with every mouse click (random or mouse pos)
+
+Challenges:
+
+Add a fourth argument of your choice to the second constructor, perhaps a Boolean determining whether the circle is filled, or an opacity value. Update the code to make use of this fourth argument.
 
