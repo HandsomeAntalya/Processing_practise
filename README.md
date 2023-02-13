@@ -26,7 +26,6 @@ Challenges:​
  <img width="639" alt="截屏2023-02-13 21 14 45" src="https://user-images.githubusercontent.com/115186584/218576398-8be60863-50da-4bd8-9f74-973b28bcd0bf.png">
  
  ## Extra task
- (Not sure if it is correct)
-<img width="637" alt="截屏2023-02-13 21 20 39" src="https://user-images.githubusercontent.com/115186584/218577168-5c09d7fd-d89c-46a6-a32e-c79c58f632cd.png">
-
  
+ <img width="636" alt="截屏2023-02-13 22 52 18" src="https://user-images.githubusercontent.com/115186584/218592581-edec642f-be74-4be8-b3b7-167773485671.png">
+
