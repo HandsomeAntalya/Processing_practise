@@ -1,4 +1,4 @@
-MRect[] rects = new MRect[4];
+MRect[] rects = new MRect[4];//change the variable to array
 
 void setup() {
   size(640, 360);
@@ -23,7 +23,9 @@ void draw() {
   rects[3].move(mouseX - (width / 2), (height - mouseY), 50);
 }
 
-void mousePressed() {
+
+/* mouse click to reduce the lines  */
+void mousePressed() {         
   for (MRect rect : rects) {
     rect.update();
   }
@@ -43,7 +45,7 @@ class MRect {
     h = ih;
     ypos = iyp;
     d = id;
-    t = it;
+    t = it; 
   }
 
   void move(float posX, float posY, float damping) {
@@ -57,6 +59,8 @@ class MRect {
     }
   }
 
+/*reate a new update function within MRect that reduces the number of bars by one*/
+  
   void update() {
     if (t > 0) {
       t--;
