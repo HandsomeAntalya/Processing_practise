@@ -1,10 +1,12 @@
 # Processing_practise
 
 ## Task one (week 4 /2023.2.13)
-Warming up:​
+Warming up:
+ 
  Draw a face on the egg using ellipse(), rect(), line(), arc() etc. Tip: place these in the Egg Class ‘display’ function, consider where to add them to the function’s sequence of drawing. Don’t forgot colour with fill() and stroke()​
 
-Challenges:​
+Challenges:
+ 
  Create a new class and add it to the composite EggRing class. Consider starting with something simple like placing the egg on a podium (or a hat?).
 
 ## Final look
@@ -13,11 +15,11 @@ Challenges:​
 
 
 ## Task two 
-Warming up:​
- Randomise the colour of each set of lines.​
- Change the lines to circles.​
+Warming up:
+ Randomise the colour of each set of lines.
+ Change the lines to circles.
 
-Challenges:​
+Challenges:
 
  Rather than have 4 MRect variables, try creating an array of MRect.
  Create a new ‘update’ function within MRect that reduces the number of bars by one. Try calling this function on every mouse press.
