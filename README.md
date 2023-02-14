@@ -74,4 +74,4 @@ Create a new superclass ‘Bounce’ that enables bouncing rather than spinning
 
 <img width="640" alt="截屏2023-02-14 17 21 11" src="https://user-images.githubusercontent.com/115186584/218811075-d48866ca-9c73-4fd6-8b90-f7b98207353b.png">
 
-<Sped up and gradually slow down>
+Spin fast from beginning and gradually slow down
