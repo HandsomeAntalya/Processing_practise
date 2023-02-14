@@ -1,6 +1,6 @@
 # Processing_practise
 
-## Task one (week 4 /2023.2.13)
+## Task one : Composite Objects (week 4 /2023.2.13)
 Warming up:
  
  Draw a face on the egg using ellipse(), rect(), line(), arc() etc. Tip: place these in the Egg Class ‘display’ function, consider where to add them to the function’s sequence of drawing. Don’t forgot colour with fill() and stroke()​
@@ -14,7 +14,7 @@ Challenges:
 <img width="640" alt="截屏2023-02-13 20 41 39" src="https://user-images.githubusercontent.com/115186584/218570248-387a942f-74ef-4842-ad18-08bd7def58d0.png">
 
 
-## Task two 
+## Task two : OBJECT
 Warming up:
  Randomise the colour of each set of lines.
  Change the lines to circles.
@@ -27,7 +27,7 @@ Challenges:
  ## Final look
  <img width="639" alt="截屏2023-02-13 21 14 45" src="https://user-images.githubusercontent.com/115186584/218576398-8be60863-50da-4bd8-9f74-973b28bcd0bf.png">
  
- ## Extra task
+ ## OBJECT Extra task
  
  <img width="636" alt="截屏2023-02-13 22 52 18" src="https://user-images.githubusercontent.com/115186584/218592581-edec642f-be74-4be8-b3b7-167773485671.png">
  
