@@ -49,8 +49,10 @@ Add a fourth argument of your choice to the second constructor, perhaps a Boolea
 
 ## MULTIPLE CONSTRUCTORS CHALLENGE 
 hhhh got my first-ever 'NullPointerException' 
+
 <img width="682" alt="截屏2023-02-14 15 08 49" src="https://user-images.githubusercontent.com/115186584/218780348-64b50fa2-7c51-4d83-9a2d-7183337cf25e.png">
 
+k no more jokes, if I understand the challenge correctlly:
 
-
+<img width="639" alt="截屏2023-02-14 16 51 01" src="https://user-images.githubusercontent.com/115186584/218803609-bd08c8f7-feea-4c7a-8f21-d4f034bd25f4.png">
 
