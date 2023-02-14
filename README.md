@@ -75,3 +75,11 @@ Create a new superclass ‘Bounce’ that enables bouncing rather than spinning
 <img width="640" alt="截屏2023-02-14 17 21 11" src="https://user-images.githubusercontent.com/115186584/218811075-d48866ca-9c73-4fd6-8b90-f7b98207353b.png">
 
 Spin fast from beginning and gradually slow down
+
+### Inheritance extra challenge 
+
+<img width="642" alt="截屏2023-02-14 17 40 15" src="https://user-images.githubusercontent.com/115186584/218815370-7211755d-33f7-47bb-9e3e-8739ef9d2592.png">
+
+Well, I know it looks quite ugly...
+
+
