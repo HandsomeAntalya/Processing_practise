@@ -56,3 +56,22 @@ k no more jokes, if I understand the challenge correctlly:
 
 <img width="639" alt="截屏2023-02-14 16 51 01" src="https://user-images.githubusercontent.com/115186584/218803609-bd08c8f7-feea-4c7a-8f21-d4f034bd25f4.png">
 
+
+## Inheritance 
+
+Warming up:
+
+
+Increase the speed of both the spin arm and spin spots (from the superclass)
+Update the Spin superclass update method so that the spinning gradually slows down
+
+Challenges:
+
+Create a new subclass that draws a stationary rectangle. Use the angle variable of the superclass to change the colour or width of the rectangle
+Create a new superclass ‘Bounce’ that enables bouncing rather than spinning
+
+### Inheritance first task
+
+<img width="640" alt="截屏2023-02-14 17 21 11" src="https://user-images.githubusercontent.com/115186584/218811075-d48866ca-9c73-4fd6-8b90-f7b98207353b.png">
+
+<Sped up and gradually slow down>
