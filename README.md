@@ -42,3 +42,15 @@ Challenges:
 
 Add a fourth argument of your choice to the second constructor, perhaps a Boolean determining whether the circle is filled, or an opacity value. Update the code to make use of this fourth argument.
 
+## MULTIPLE CONSTRUCTORS
+
+<img width="636" alt="截屏2023-02-14 15 17 25" src="https://user-images.githubusercontent.com/115186584/218779922-56d4c173-d1cd-45f1-be5d-835c63bf8d08.png">
+<img width="637" alt="截屏2023-02-14 15 17 34" src="https://user-images.githubusercontent.com/115186584/218779968-e04b3945-9c6c-41af-b733-8db29b0071b1.png">
+
+## MULTIPLE CONSTRUCTORS CHALLENGE 
+hhhh got my first-ever 'NullPointerException' 
+<img width="682" alt="截屏2023-02-14 15 08 49" src="https://user-images.githubusercontent.com/115186584/218780348-64b50fa2-7c51-4d83-9a2d-7183337cf25e.png">
+
+
+
+
